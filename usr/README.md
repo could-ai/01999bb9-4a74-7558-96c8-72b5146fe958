@@ -1,6 +1,6 @@
-# couldai_user_app
+# bom_voo
 
-A new Flutter project.
+Um site inovador de visualização e planejamento de viagens internacionais.
 
 ## Getting Started
 
